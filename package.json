@@ -54,5 +54,14 @@
     "socket.io": "^4.2.0",
     "socket.io-client": "^4.2.0",
     "uuid": "^8.0.0"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhomenko/nodejs-20220114_khomenko-ivan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikhomenko/nodejs-20220114_khomenko-ivan/issues"
+  },
+  "homepage": "https://github.com/ikhomenko/nodejs-20220114_khomenko-ivan#readme"
 }
